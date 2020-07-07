@@ -1,0 +1,28 @@
+{
+  "name": "ixo-pol",
+  "version": "0.1.0",
+  "description": "ixo service that broadcasts transactions to the ixo blockchain",
+  "repository": "https://github.com/ixofoundation/ixo-pol",
+  "main": "App.ts",
+  "scripts": {
+    "start": "node dist/App.js",
+    "build": "tsc",
+    "test": "we are live"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "@types/node": "^10.1.2",
+    "amqplib": "^0.5.2",
+    "axios": "^0.18.1",
+    "dateformat": "^3.0.3",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.4",
+    "npm": "^6.0.1",
+    "to": "^0.2.9",
+    "ts-loader": "^4.3.0",
+    "typescript": "^2.8.3",
+    "update": "^0.7.4"
+  }
+}
