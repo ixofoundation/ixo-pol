@@ -1,6 +1,6 @@
 {
   "name": "ixo-pol",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ixo service that broadcasts transactions to the ixo blockchain",
   "repository": "https://github.com/ixofoundation/ixo-pol",
   "main": "App.ts",
