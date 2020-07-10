@@ -19,7 +19,7 @@
     "dateformat": "^3.0.3",
     "dotenv": "^5.0.1",
     "express": "^4.16.4",
-    "npm": "^6.0.1",
+    "npm": "^6.14.6",
     "ts-loader": "^4.3.0",
     "typescript": "^2.8.3"
   }
